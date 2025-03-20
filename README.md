@@ -3,6 +3,7 @@
 
 - 🎓 **Education**:  
   - **BS Data Science** - Emerson University, Multan  
+  - 📊 **GPA (1st Semester): 4.00/4.00**  
 - 🤖 Passionate about Machine Learning, Deep Learning (CNNs), and Data Science   
 - 🔭 Currently working on Arduino IoT projects, ML, DL  
 
@@ -54,6 +55,7 @@
 
 ## 🎓 Education  
 - **BS Data Science** - Emerson University, Multan (Current)  
+- 📊 **GPA (1st Semester): 4.00/4.00**  
 
 ## 🔗 Connect with Me  
 - 📧 Email: muhammadhamzao241@gmail.com  
