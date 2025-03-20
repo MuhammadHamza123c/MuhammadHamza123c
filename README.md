@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋  
+**Data Scientist | Machine Learning Enthusiast | Developer**  
 
-<!--
-**MuhammadHamza123c/MuhammadHamza123c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Education**:  
+  - **BS Data Science** - Emerson University, Multan  
+- 🤖 Passionate about Machine Learning, Deep Learning (CNNs), and Data Science   
+- 🔭 Currently working on Arduino IoT projects, ML, DL  
 
-Here are some ideas to get you started:
+## 📂 My Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Machine Learning Projects  
+- Titanic Survival  
+- Score Prediction  
+- Banana Quality Classification  
+- Match Maker  
+- Weather Prediction  
+- Fact Checker  
+- Student Attendance System (by ID Card)  
+- Heart Problem Prediction  
+
+### 📡 IoT & Arduino Projects  
+- Water Monitoring  
+- Home Automation  
+- Women Safety Device  
+- Weather Station  
+- Water Dispenser  
+- Anti-Sleep Glasses  
+- Plant Watering System  
+- Special Glasses for Blind People  
+
+### 🗣️ AI Assistant - Jarvis  
+- Jarvis AI  
+
+### 🕵️ Web Scraping & Automation  
+- Scraping Data from Different Websites  
+- Instagram and YouTube Automation  
+
+### 📊 Data Visualization  
+- Seaborn Visualizations  
+- Matplotlib & Plotly  
+
+## ⚒️ Skills  
+
+| **Category**              | **Skills** |
+|---------------------------|----------------------------------------------------------|
+| **Programming Languages** | Python, C, C++, Java, SQL, NoSQL |
+| **Data Science & ML**     | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Computer Vision |
+| **Data Visualization**    | Matplotlib, Seaborn, Plotly |
+| **Web Scraping & APIs**   | BeautifulSoup, Selenium, Requests |
+| **Automation**            | Selenium, Python Scripting |
+| **Version Control**       | Git, GitHub |
+| **Development Tools**     | Jupyter Notebook, Google Colab, VS Code |
+| **IoT**                   | C, C++, Microcontrollers, ESP8266, ESP32, Arduino Uno |
+
+## 🎓 Education  
+- **BS Data Science** - Emerson University, Multan (Current)  
+
+## 🔗 Connect with Me  
+- 📧 Email: muhammadhamzao241@gmail.com  
+- 💼 LinkedIn: [Muhammad Hamza](https://www.linkedin.com/in/muhammad-hamzads)  
