@@ -53,9 +53,6 @@
 | **Development Tools**     | Jupyter Notebook, Google Colab, VS Code |
 | **IoT**                   | C, C++, Microcontrollers, ESP8266, ESP32, Arduino Uno |
 
-## 🎓 Education  
-- **BS Data Science** - Emerson University, Multan (Current)  
-- 📊 **GPA (1st Semester): 4.00/4.00**  
 
 ## 🔗 Connect with Me  
 - 📧 Email: muhammadhamzao241@gmail.com  
