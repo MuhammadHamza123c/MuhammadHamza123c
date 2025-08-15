@@ -27,7 +27,7 @@
 - **Heart Problem Prediction** — Predict heart issues using classification ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 - **Student Attendance System (ID Card based)** — Track student attendance ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 - **Movie Recommendation System** — Suggest movies based on user preferences ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
--Personality Detection — Determine whether a person is an introvert or extrovert ![ML-Python](https://img.shields.io/badge/ML-Python-blue) 
+- **Personality Detection** — Determine whether a person is an introvert or extrovert ![ML-Python](https://img.shields.io/badge/ML-Python-blue) 
 
 ### 🧠 NLP & Text-based ML Projects
 - **Emotion & Sentiment Analysis** — Detect emotions and sentiment from text ![NLP](https://img.shields.io/badge/NLP-LangChain-purple)  
