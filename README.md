@@ -1,7 +1,11 @@
 # Hi, I'm Hamza 👋  
 **Data Scientist | Machine Learning Enthusiast | Developer**  
 
-![ML-Python](https://img.shields.io/badge/ML-Python-blue) ![Status](https://img.shields.io/badge/status-Active-green)  
+![ML-Python](https://img.shields.io/badge/ML-Python-blue) 
+![Status](https://img.shields.io/badge/status-Active-green) 
+![AI](https://img.shields.io/badge/AI-DeepLearning-red) 
+![IoT](https://img.shields.io/badge/IoT-Arduino-orange) 
+![NLP](https://img.shields.io/badge/NLP-LangChain-purple)  
 
 - 🎓 **Education**:  
   - **BS Data Science** - Emerson University, Multan  
@@ -14,49 +18,49 @@
 ## 📂 My Projects  
 
 ### 🤖 Machine Learning & AI Projects
-- **Diabetes Prediction** — ML model predicts diabetes with 97% accuracy  
-- **Titanic Survival** — Predict who survived using ML  
-- **Score Prediction** — Estimate academic scores based on input features  
-- **Banana Quality Classification** — Detect banana quality using image classification (CNN)  
-- **Match Maker** — Predict compatibility between individuals  
-- **Weather Prediction** — Predict temperature & humidity using regression  
-- **Heart Problem Prediction** — Predict heart issues using classification  
-- **Student Attendance System (ID Card based)** — Track student attendance  
+- **Diabetes Prediction** — ML model predicts diabetes with 97% accuracy ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Titanic Survival** — Predict who survived using ML ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Score Prediction** — Estimate academic scores based on input features ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Banana Quality Classification** — Detect banana quality using image classification (CNN) ![DL-CNN](https://img.shields.io/badge/DL-CNN-red)  
+- **Match Maker** — Predict compatibility between individuals ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Weather Prediction** — Predict temperature & humidity using regression ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Heart Problem Prediction** — Predict heart issues using classification ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Student Attendance System (ID Card based)** — Track student attendance ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Movie Recommendation System** — Suggest movies based on user preferences ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 
 ### 🧠 NLP & Text-based ML Projects
-- **Emotion & Sentiment Analysis** — Detect emotions and sentiment from text  
-- **Email Spam/Ham Classifier** — Classify emails as spam or not  
-- **Movie Recommendation System** — Suggest movies based on user preferences  
-- **Diabetes Detection** — Machine Learning model for patient risk prediction  
+- **Emotion & Sentiment Analysis** — Detect emotions and sentiment from text ![NLP](https://img.shields.io/badge/NLP-LangChain-purple)  
+- **Email Spam/Ham Classifier** — Classify emails as spam or not ![NLP](https://img.shields.io/badge/NLP-LangChain-purple)  
+- **Diabetes Detection** — Machine Learning model for patient risk prediction ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 
 ### 🌐 Gen AI / LangChain Projects
-- **Flight Agent AI** — Assist users with flight info & bookings  
-- **Mental Health Helper AI** — Provides support and advice using conversational AI  
-- **PDF Question Answering App** — Ask questions from any PDF using LLM + RAG  
-- **Business Management Chatbot** — Automates sales, emails, and workflows  
-- **Fact Checker** — Detect real vs fake news  
-- **Library Assistant** — Search books, check availability, suggest reads  
+- **Flight Agent AI** — Assist users with flight info & bookings ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
+- **Mental Health Helper AI** — Provides support and advice using conversational AI ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
+- **PDF Question Answering App** — Ask questions from any PDF using LLM + RAG ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
+- **Business Management Chatbot** — Automates sales, emails, and workflows ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
+- **Fact Checker** — Detect real vs fake news ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
+- **Library Assistant** — Search books, check availability, suggest reads ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
 
 ### 📡 IoT & Arduino Projects
-- Water Monitoring  
-- Home Automation  
-- Women Safety Device  
-- Weather Station  
-- Water Dispenser  
-- Anti-Sleep Glasses  
-- Plant Watering System  
-- Special Glasses for Blind People  
+- Water Monitoring ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Home Automation ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Women Safety Device ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Weather Station ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Water Dispenser ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Anti-Sleep Glasses ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Plant Watering System ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
+- Special Glasses for Blind People ![IoT](https://img.shields.io/badge/IoT-Arduino-orange)  
 
 ### 🗣️ AI Assistant - Jarvis
-- Voice-activated personal assistant powered by Python  
+- Voice-activated personal assistant powered by Python ![AI](https://img.shields.io/badge/AI-Python-red)  
 
 ### 🕵️ Web Scraping & Automation
-- Scraping data from websites  
-- Automating tasks on Instagram and YouTube  
+- Scraping data from websites ![Automation](https://img.shields.io/badge/Automation-Python-yellow)  
+- Automating tasks on Instagram and YouTube ![Automation](https://img.shields.io/badge/Automation-Python-yellow)  
 
 ### 📊 Data Visualization
-- Seaborn dashboards  
-- Matplotlib & Plotly interactive graphs  
+- Seaborn dashboards ![DataViz](https://img.shields.io/badge/DataViz-Seaborn-blue)  
+- Matplotlib & Plotly interactive graphs ![DataViz](https://img.shields.io/badge/DataViz-Matplotlib-purple)  
 
 ---
 
@@ -81,6 +85,3 @@
 ## 🔗 Connect with Me  
 - 📧 Email: muhammadhamzao241@gmail.com  
 - 💼 LinkedIn: [Muhammad Hamza](https://www.linkedin.com/in/muhammad-hamzads)  
-
----
-
