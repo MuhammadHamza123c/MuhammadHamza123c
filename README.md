@@ -27,11 +27,11 @@
 - **Heart Problem Prediction** — Predict heart issues using classification ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 - **Student Attendance System (ID Card based)** — Track student attendance ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 - **Movie Recommendation System** — Suggest movies based on user preferences ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
+- **Personality Detection** — Detect personality traits from text or behavior ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 
 ### 🧠 NLP & Text-based ML Projects
 - **Emotion & Sentiment Analysis** — Detect emotions and sentiment from text ![NLP](https://img.shields.io/badge/NLP-LangChain-purple)  
 - **Email Spam/Ham Classifier** — Classify emails as spam or not ![NLP](https://img.shields.io/badge/NLP-LangChain-purple)  
-- **Diabetes Detection** — Machine Learning model for patient risk prediction ![ML-Python](https://img.shields.io/badge/ML-Python-blue)  
 
 ### 🌐 Gen AI / LangChain Projects
 - **Flight Agent AI** — Assist users with flight info & bookings ![GenAI](https://img.shields.io/badge/GenAI-LangChain-red)  
@@ -84,4 +84,4 @@
 
 ## 🔗 Connect with Me  
 - 📧 Email: muhammadhamzao241@gmail.com  
-- 💼 LinkedIn: [Muhammad Hamza](https://www.linkedin.com/in/muhammad-hamzads)  
+- 💼 LinkedIn: [Muhammad Hamza](https://www.linkedin.com/in/muhammad-hamzads)
