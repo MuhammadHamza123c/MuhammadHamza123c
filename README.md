@@ -36,35 +36,6 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 
 ---
 
-## Featured Project
-
-<div align="center">
-
-  <h3>QuizzVerse</h3>
-  <p><strong>AI-Powered Quiz Platform — Learn, Compete, Master</strong></p>
-  <p>
-    <a href="https://quizzverse.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-QuizzVerse-purple?style=flat-square&logo=vercel" alt="Live Demo" /></a>
-    <a href="https://github.com/MuhammadHamza123c/Quizzverse"><img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=flat-square&logo=github" alt="Source Code" /></a>
-    <a href="https://github.com/MuhammadHamza123c/Quizzverse/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License" /></a>
-  </p>
-
-</div>
-
-**QuizzVerse** is a full-stack AI quiz platform where you can generate smart quizzes from any topic or document, play solo or compete with friends in real-time multiplayer rooms, review mistakes with AI flashcards, and earn achievements.
-
-**Built with:** Next.js 16, React 19, FastAPI, Supabase, Groq Cloud, WebSockets, LiveKit, Tailwind CSS 4
-
-**Highlights:**
-- 31 REST API endpoints + WebSocket multiplayer with 14 message types
-- AI quiz generation on 24 topics + document-powered quizzes (PDF/DOCX/TXT)
-- 4-layer semantic answer judging (exact match → transliteration → fuzzy → LLM)
-- Real-time multiplayer with speed scoring, streaks, and live leaderboard
-- AI chat tutor with voice recording and Whisper transcription
-- 14 unlockable achievements with confetti celebrations
-- Dark glassmorphic design system with 14 custom animations
-
----
-
 ## Projects
 
 ### 🤖 Machine Learning & AI
