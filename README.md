@@ -90,7 +90,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 | **TextGuard** | AI vs Human text classification | Python, NLP |
 | **summary-keyword-agent** | AI agent for text summarization | LangChain, Gemini |
 | **TuneBuddy** | Song recommendation system | Python, Spotify API |
-| **MovieSphere** | Movie discovery platform | JavaScript |
+| **MovieSphere** | Full-stack movie/TV streaming platform with AI recommendations, real-time watch parties, reels, push notifications, trivia quiz, and credit system | React 19, Vite, FastAPI, Supabase, Groq, LiveKit, TMDB, YouTube API |
 
 ---
 
