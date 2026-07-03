@@ -50,6 +50,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 | **Weather Prediction** | Temperature & humidity regression | Python, Matplotlib |
 | **Personality Detection** | Introvert vs extrovert classification | Python, NLP |
 | **Score Prediction** | Academic score estimation from features | Python, Regression |
+| **CropSense** | Smart crop prediction — 99.19% accuracy, 22 crops, IoT-ready with NPK/pH/temp sensors | Python, Scikit-learn, Streamlit |
 
 ### 🧠 NLP & Text Analysis
 
