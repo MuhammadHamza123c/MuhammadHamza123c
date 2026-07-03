@@ -129,14 +129,6 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza123c&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=8b5cf6&text_color=ffffff&icon_color=22d3ee" alt="GitHub Stats" />
-</div>
-
----
-
 ## Contact
 
 <div align="center">
