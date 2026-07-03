@@ -40,10 +40,6 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 
 <div align="center">
 
-  <a href="https://quizzverse.vercel.app">
-    <img src="https://raw.githubusercontent.com/MuhammadHamza123c/Quizzverse/main/screenshots/quizzverse_dashboard.png" alt="QuizzVerse Dashboard" width="800" />
-  </a>
-
   <h3>QuizzVerse</h3>
   <p><strong>AI-Powered Quiz Platform — Learn, Compete, Master</strong></p>
   <p>
