@@ -64,7 +64,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 | Project | Description | Tech |
 |---|---|---|
 | **QuizzVerse** | AI-powered quiz platform with multiplayer rooms | Next.js, FastAPI, Groq, Supabase |
-| **Flight Agent AI** | AI assistant for flight info & bookings | LangChain, Groq |
+| **Flight Agent AI** | Multi-agent travel assistant — trip planning, flight/hotel booking, local language teaching, destination images, emergency alerts | LangChain, LangGraph, Gemini, Pixabay API, SMTP |
 | **Mental Health Helper AI** | Conversational AI for mental health support | LangChain, Groq |
 | **PDF Question Answering App** | Ask questions from any PDF using RAG | LangChain, OpenAI |
 | **Business Management Chatbot** | Automate sales, emails, and workflows | LangChain, Python |
