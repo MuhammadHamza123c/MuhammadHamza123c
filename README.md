@@ -70,6 +70,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 | **Business Management Chatbot** | Automate sales, emails, and workflows | LangChain, Python |
 | **Fact Checker** | Detect real vs fake news | LangChain, NLP |
 | **Library Assistant** | Search books, check availability, suggest reads | LangChain, Python |
+| **auto-scraper-rag** | Automated web scraping + RAG pipeline — scrapes sites, stores in vector DB, intelligent Q&A over content | BeautifulSoup, LangChain |
 
 ### 📡 IoT & Arduino
 
