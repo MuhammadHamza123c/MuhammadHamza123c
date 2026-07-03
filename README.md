@@ -89,6 +89,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 | Project | Description | Tech |
 |---|---|---|
 | **Jarvis** | Voice-activated personal assistant | Python, Speech Recognition |
+| **Haq Ki Baat** | AI legal assistant — chat-based legal Q&A with image/PDF document upload | Python, Streamlit, FastAPI |
 | **TextGuard** | AI vs Human text classification | Python, NLP |
 | **summary-keyword-agent** | AI agent for text summarization | LangChain, Gemini |
 | **TuneBuddy** | Song recommendation system | Python, Spotify API |
