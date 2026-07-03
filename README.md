@@ -69,7 +69,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 | **PDF Question Answering App** | Ask questions from any PDF using RAG | LangChain, OpenAI |
 | **Business Management Chatbot** | Automate sales, emails, and workflows | LangChain, Python |
 | **Fact Checker** | Detect real vs fake news | LangChain, NLP |
-| **Library Assistant** | Search books, check availability, suggest reads | LangChain, Python |
+| **Library Assistant** | AI library chatbot — semantic book search via ChromaDB, OCR from book covers, WhatsApp bot integration, library rules Q&A | LangChain, Groq, ChromaDB, FastAPI, Tesseract, n8n |
 | **auto-scraper-rag** | Automated web scraping + RAG pipeline — scrapes sites, stores in vector DB, intelligent Q&A over content | BeautifulSoup, LangChain |
 
 ### 📡 IoT & Arduino
