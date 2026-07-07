@@ -16,7 +16,7 @@
     <a href="https://github.com/MuhammadHamza123c">GitHub</a> ·
     <a href="https://www.linkedin.com/in/muhammad-hamzads">LinkedIn</a> ·
     <a href="mailto:muhammadhamzao241@gmail.com">Email</a> ·
-    <a href="https://quizzverse.vercel.app">Portfolio</a>
+  
   </p>
 
 </div>
