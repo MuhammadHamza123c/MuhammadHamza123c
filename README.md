@@ -8,7 +8,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🎓-BS_Data_Science-blue?style=flat-square" alt="Education" />
-    <img src="https://img.shields.io/badge/📊-GPA_3.95/4.00-green?style=flat-square" alt="GPA" />
+    <img src="https://img.shields.io/badge/📊-GPA_3.92/4.00-green?style=flat-square" alt="GPA" />
     <img src="https://img.shields.io/badge/🏢-Emerson_University-purple?style=flat-square" alt="University" />
   </p>
 
