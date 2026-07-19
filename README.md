@@ -137,8 +137,11 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| [Oracle Agentic AI](certificates/oracle_agentic_ai_certifacte.pdf) | Oracle | |
-| [Artificial Intelligence Certificate](certificates/AAI26OFA.jpg) | | |
+| Oracle Agentic AI | Oracle | |
+
+<div align="center">
+  <img src="certificates/certificate_oracle.jpg" alt="Oracle Agentic AI Certificate" width="600">
+</div>
 
 ---
 
