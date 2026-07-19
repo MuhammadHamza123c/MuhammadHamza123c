@@ -135,13 +135,17 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 
 ## Certificates
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| Oracle Agentic AI | Oracle | |
+### Oracle Agentic AI Certified Foundations Associate
 
 <div align="center">
-  <img src="certificates/certificate_oracle.jpg" alt="Oracle Agentic AI Certificate" width="600">
+  <img src="certificates/certificate_oracle.png" alt="Oracle Agentic AI Certificate" width="600">
 </div>
+
+**Issued by Oracle** — 19 July 2026
+
+A practical, build-it-yourself introduction to AI agents. You'll leave understanding what an agent really is having built one from scratch, used LangChain, the OpenAI Agents SDK, a real MCP server, and seen where agents run in production using OCI Enterprise AI Agents service and Agentic AI features in the Oracle AI Database.
+
+**Skills:** Understand core AI agent concepts · Build agents using LangChain · Apply Model Context Protocol concepts · Use OpenAI agent development capabilities · Use OCI Enterprise AI Agents · Apply Oracle AI Database capabilities for agentic AI
 
 ---
 
