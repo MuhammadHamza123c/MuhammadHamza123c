@@ -133,6 +133,14 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
 
 ---
 
+## Certificates
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| <!-- Add your certificates here --> | | |
+
+---
+
 ## Contact
 
 <div align="center">
