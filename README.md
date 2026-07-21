@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/MuhammadHamza123c" alt="Hamza" width="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/MuhammadHamza123c" alt="Hamza." width="120" style="border-radius: 50%;" />
 
   <h1>Muhammad Hamza</h1>
 
