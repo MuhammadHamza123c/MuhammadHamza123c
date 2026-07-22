@@ -4,7 +4,7 @@
 
   <h1>Muhammad Hamza</h1>
 
-  <p><strong>Data Scientist · Full-Stack Developer · AI Engineer</strong></p>
+  <p><strong>Data Scientist · Full-Stack Developer · AI Engineer.</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/🎓-BS_Data_Science-blue?style=flat-square" alt="Education" />
