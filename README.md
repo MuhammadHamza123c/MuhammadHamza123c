@@ -127,7 +127,7 @@ I'm a Data Science student at Emerson University, Multan with a perfect **4.00 G
   </tr>
   <tr>
     <td><strong>IoT</strong></td>
-    <td>Arduino, ESP8266, ESP32, Microcontrollers, Sensors</td>
+    <td>Arduino, ESP8266, ESP32, Microcontrollers, Sensor</td>
   </tr>
 </table>
 
